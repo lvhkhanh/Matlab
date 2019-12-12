@@ -4,6 +4,8 @@
 
 [coder.screener](https://www.mathworks.com/help/simulink/ug/check-code-using-the-code-generation-readiness-tool.html)
 
+[mlintrpt](https://www.mathworks.com/help/matlab/ref/mlintrpt.html)
+
 [checkcode](https://www.mathworks.com/help/matlab/ref/checkcode.html)
 
 [applicationCompiler](https://www.mathworks.com/help/compiler/applicationcompiler-app.html) since R2013b
